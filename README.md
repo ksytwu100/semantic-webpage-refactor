@@ -6,7 +6,7 @@ The Semantic webpage refactor was created based on the important aspects of web 
 
 User Story
  
-By following accessibility standards for website optimizations that will benefit both businesses and individuals.
+By following accessibility standards for website optimizations.
 
 
 Usage
