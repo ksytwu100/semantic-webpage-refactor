@@ -49,12 +49,12 @@ body {
 }
 
 .header div ul li {
-    display: inline-block
+    display: inline-block;
     margin-left: 25px;
 }   
 
 .header nav ul li {
-    display: inline-block
+    display: inline-block;
     margin-left: 25px;
 }   
 
